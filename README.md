@@ -17,3 +17,7 @@ If we have time, we will learn about object-oriented programming:
 * `npm install http-server -g`
 * `http-server`
 * `oop.js`
+
+And maybe Monte Carlo simulations:
+
+* https://twitter.com/fermatslibrary/status/924263998589145090
